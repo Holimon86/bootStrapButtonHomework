@@ -1,0 +1,14 @@
+.btn {
+    width: auto;
+    margin: 2px;
+    width: 100px;
+    box-shadow: 8px 7px 20px 3px rgba(183,183,183,0.69);
+}
+.btn1 {
+    width: auto;
+    margin: 8px;
+    width: 250px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 8px 7px 20px 3px rgba(183,183,183,0.69);
+}
